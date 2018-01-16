@@ -8,7 +8,7 @@ max_num(A, B, A) :-
 
 % TO DO: max list
 
-fibb(0, 1).
+fibb(0, 0).
 fibb(1, 1).
 fibb(N, A) :-
     N > 1,
